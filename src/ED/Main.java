@@ -15,7 +15,7 @@ package ED;
  * El método m2 se encarga de coger los números del método m1 y a continuación
  * se pone a ordenarlos.
  *
- * Las líneas con comentarios es código que ha sido desechado para el ejercicio.
+ * Las líneas con comentarios es código que ha sido desechado para el ejercicio de ED.
  *
  * @author mario
  *
